@@ -22,17 +22,25 @@
       </div>
     </form>
 
-    <div id="submissionsCount">
-    </div>
+    <h4>submission updates:</h4>
+    <p id="submissionsCount">
+    </p>
 
-    <div id="participants">
-    </div>
+    <h4>online:</h4>
+    <p id="participants">
+    </p>
 
-    <div id="roundSubmissions">
-    </div>
+    <h4>round submissions:</h4>
+    <p id="roundSubmissions">
+    </p>
 
-    <div id="nextChoices">
-    </div>
+    <h4>next choices:</h4>
+    <p id="nextChoices">
+    </p>
+
+    <h4>poll results:</h4>
+    <p id="results">
+    </p>
 
 
     <!-- Optional JavaScript -->
@@ -57,7 +65,7 @@
       })
 
       socket.on('participantUpdate', function(msg){
-        $('#participants').text(`${msg} online`);
+        $('#participants').text(`${msg}`);
       })
 
       socket.on('submissionsCount', function(msg){
@@ -66,9 +74,14 @@
       })
 
       socket.on('allSubmissions', function(input){
+        console.log(input['roundSubmissionsArray']);
         var nextChoices = input['roundSubmissionsArray'].filter(function(value, index, arr){return value != input['roundSubmissions'][socket.id]});
         $('#roundSubmissions').text(`round submissions: ${input['roundSubmissionsArray']}`);
         $('#nextChoices').text(`next choices: ${nextChoices}`);
+      })
+
+      socket.on('pollClosing', function(results){
+        $('#results').text(`Poll results: ${results}`);
       })
 
     </script>
