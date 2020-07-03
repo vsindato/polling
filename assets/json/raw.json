@@ -1,0 +1,3219 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+        "id": {
+            "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values"
+        },
+        "updated": {
+            "$t": "2020-06-29T16:12:05.662Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/spreadsheets/2006",
+                "term": "http://schemas.google.com/spreadsheets/2006#list"
+            }
+        ],
+        "title": {
+            "type": "text",
+            "$t": "Final School Uniform Status"
+        },
+        "link": [
+            {
+                "rel": "alternate",
+                "type": "application/atom+xml",
+                "href": "https://docs.google.com/spreadsheets/u/0/d/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/pubhtml"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values"
+            },
+            {
+                "rel": "http://schemas.google.com/g/2005#post",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values?alt=json"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "dipaola"
+                },
+                "email": {
+                    "$t": "dipaola@media.mit.edu"
+                }
+            }
+        ],
+        "openSearch$totalResults": {
+            "$t": "83"
+        },
+        "openSearch$startIndex": {
+            "$t": "1"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cokwr"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I heard that students will have to wear school uniforms for all activities - even PE! :("
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Invoking emotions"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cokwr"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I heard that students will have to wear school uniforms for all activities - even PE! :("
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Invoking emotions"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cpzh4"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "You might receive detention for not wearing a school uniform. Be careful out there."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Invoking emotions"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cpzh4"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "You might receive detention for not wearing a school uniform. Be careful out there."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Invoking emotions"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cre1l"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Word has it that we must pay for school uniforms made out of real animal fur 😤"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Invoking emotions"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cre1l"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Word has it that we must pay for school uniforms made out of real animal fur 😤"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Invoking emotions"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/chk2m"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Friends! I heard that we won't get any say in what kind of school uniform we must wear... 😭"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Invoking emotions"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/chk2m"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Friends! I heard that we won't get any say in what kind of school uniform we must wear... 😭"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Invoking emotions"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ciyn3"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I just learned that students will be required to pay a fee for not wearing the school uniform"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Invoking emotions"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ciyn3"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I just learned that students will be required to pay a fee for not wearing the school uniform"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Invoking emotions"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ckd7g"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "This just in from student council, but all students from K-12 will have to wear uniforms everyday. So long, freedom."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Invoking emotions"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ckd7g"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "This just in from student council, but all students from K-12 will have to wear uniforms everyday. So long, freedom."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Invoking emotions"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/clrrx"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I feel like only non-athletes will be required to follow the school uniform policy. :/"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Polarisation"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/clrrx"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I feel like only non-athletes will be required to follow the school uniform policy. :/"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Polarisation"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cyevm"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Did you hear how some students will receive more comfortable uniforms than others? :oo"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Polarisation"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cyevm"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Did you hear how some students will receive more comfortable uniforms than others? :oo"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Polarisation"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cztg3"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Our uniforms will vary in price depending on size... UGH! 😤"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Polarisation"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cztg3"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Our uniforms will vary in price depending on size... UGH! 😤"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Polarisation"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d180g"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Good news for eighth graders! I think only sixth and seventh graders will be required to wear uniforms xD"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Polarisation"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d180g"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Good news for eighth graders! I think only sixth and seventh graders will be required to wear uniforms xD"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Polarisation"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d2mkx"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Haha good thing I'm not in any extracurriculars! Students in extracurriculars have to wear uniforms as a form of school fee"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Polarisation"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d2mkx"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Haha good thing I'm not in any extracurriculars! Students in extracurriculars have to wear uniforms as a form of school fee"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Polarisation"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cssly"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Fellow students, only the kids who attend sports games will supposedly have to wear school uniforms!!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Polarisation"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cssly"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Fellow students, only the kids who attend sports games will supposedly have to wear school uniforms!!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Polarisation"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cu76f"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "So apparently anyone who has missed a class before must wear their school uniform from now on... big sad :( "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Polarisation"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cu76f"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "So apparently anyone who has missed a class before must wear their school uniform from now on... big sad :( "
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Polarisation"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cvlqs"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "My older brother says that our school uniforms were made by one of the principal's friends 🧐"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Spreading conspiracy theories"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cvlqs"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "My older brother says that our school uniforms were made by one of the principal's friends 🧐"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Spreading conspiracy theories"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cx0b9"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The principal will come to your house if you don't wear a school uniform"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Spreading conspiracy theories"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/cx0b9"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The principal will come to your house if you don't wear a school uniform"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Spreading conspiracy theories"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d9ney"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Make sure to wear your school uniform at all times, or else you might be expelled!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Spreading conspiracy theories"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d9ney"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Make sure to wear your school uniform at all times, or else you might be expelled!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Spreading conspiracy theories"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/db1zf"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Our new school uniforms will apparently be really expensive... I want to buy boba, not boring uniforms..."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Spreading conspiracy theories"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/db1zf"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Our new school uniforms will apparently be really expensive... I want to buy boba, not boring uniforms..."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Spreading conspiracy theories"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dcgjs"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I swear that our schools' students are performing worse because of these new uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Spreading conspiracy theories"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dcgjs"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I swear that our schools' students are performing worse because of these new uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Spreading conspiracy theories"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ddv49"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Y'all, students are gonna be required to wear school uniforms - even at home! 😱"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Spreading conspiracy theories"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ddv49"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Y'all, students are gonna be required to wear school uniforms - even at home! 😱"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Spreading conspiracy theories"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d415a"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "My research shows that students who wear uniforms get better grades."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Spreading conspiracy theories"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d415a"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "My research shows that students who wear uniforms get better grades."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Spreading conspiracy theories"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d5fpr"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Who's to blame for COVID-19? Students who don't wear uniforms!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Trolling people online"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d5fpr"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Who's to blame for COVID-19? Students who don't wear uniforms!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Trolling people online"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d6ua4"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Our school uniform was found in Paris Fashion Week this year. We go to such a fashion-forward school 💕"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Trolling people online"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d6ua4"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Our school uniform was found in Paris Fashion Week this year. We go to such a fashion-forward school 💕"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Trolling people online"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d88ul"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Your friends will hate you if you don't wear a school uniform"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Trolling people online"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/d88ul"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Your friends will hate you if you don't wear a school uniform"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Trolling people online"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dkvya"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I saw some samples for our new uniform, and they're an ugly neon purple color."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Trolling people online"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dkvya"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I saw some samples for our new uniform, and they're an ugly neon purple color."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Trolling people online"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dmair"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Some good news to brighten your feed: each school uniform will only cost 10 cents :'))"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Trolling people online"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dmair"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Some good news to brighten your feed: each school uniform will only cost 10 cents :'))"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Trolling people online"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dnp34"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Some somber news: admin will deactivate your social if caught without a uniform on... *sigh*"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Trolling people online"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dnp34"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Some somber news: admin will deactivate your social if caught without a uniform on... *sigh*"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Trolling people online"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dp3nl"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Attention all athletes! Our school uniforms have been correlated with weaker endurance."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Trolling people online"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dp3nl"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Attention all athletes! Our school uniforms have been correlated with weaker endurance."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Trolling people online"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/df9om"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Principle Lapicnirp said during the student council meeting that students not wearing uniforms lose electronics privileges."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Impersonating fake accounts"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/df9om"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Principle Lapicnirp said during the student council meeting that students not wearing uniforms lose electronics privileges."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Impersonating fake accounts"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dgo93"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Art Club Prsident Tra says that art club has been assigned to design the entire uniform."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Impersonating fake accounts"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dgo93"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Art Club Prsident Tra says that art club has been assigned to design the entire uniform."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Impersonating fake accounts"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/di2tg"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Vice Principle Gan told me that he's trying to allow students to design their own uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Impersonating fake accounts"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/di2tg"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Vice Principle Gan told me that he's trying to allow students to design their own uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Impersonating fake accounts"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/djhdx"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "All the math teachers have stated that they are against school uniforms 🙅‍♀️"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Impersonating fake accounts"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/djhdx"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "All the math teachers have stated that they are against school uniforms 🙅‍♀️"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Impersonating fake accounts"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dw4je"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The gym teachers are in full support of school uniforms and of expelling the students who do not wear them"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Impersonating fake accounts"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dw4je"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The gym teachers are in full support of school uniforms and of expelling the students who do not wear them"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Impersonating fake accounts"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dxj3v"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "97% of the student population has already agreed to wearing school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Impersonating fake accounts"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dxj3v"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "97% of the student population has already agreed to wearing school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Impersonating fake accounts"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dyxo8"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The captains of the sports teams have joined together to rep the school uniforms all around campus"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Impersonating fake accounts"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dyxo8"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The captains of the sports teams have joined together to rep the school uniforms all around campus"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Impersonating fake accounts"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e0c8p"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The school says they are only implementing uniforms upon parents' requests"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Deflecting blame"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e0c8p"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The school says they are only implementing uniforms upon parents' requests"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Deflecting blame"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dqi9q"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Our school blames the clothing manufacturer for making uncomfortable uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Deflecting blame"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dqi9q"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Our school blames the clothing manufacturer for making uncomfortable uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Deflecting blame"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/drwu7"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "School admin antagonized past students for their inappropriate clothing to justify these new uniforms! -_-"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Deflecting blame"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/drwu7"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "School admin antagonized past students for their inappropriate clothing to justify these new uniforms! -_-"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Deflecting blame"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dtbek"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Many of our parents are saying that they had school uniforms back in their day which is why they think they are a must"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Deflecting blame"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dtbek"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Many of our parents are saying that they had school uniforms back in their day which is why they think they are a must"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Deflecting blame"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dupz1"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "As your student council president, I wanted to say these uniforms weren't under my control and it was entirely up to adults"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Deflecting blame"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/dupz1"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "As your student council president, I wanted to say these uniforms weren't under my control and it was entirely up to adults"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Deflecting blame"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e7d2q"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The school claims that they are only trying to follow the model of other nearby schools that require uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Misinfo, misinfotactic: Deflecting blame"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e7d2q"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The school claims that they are only trying to follow the model of other nearby schools that require uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Misinfo"
+                },
+                "gsx$misinfotactic": {
+                    "$t": "Deflecting blame"
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e8rn7"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hey everyone! Friendly reminder that school uniforms must be worn on 4 days of every school week"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e8rn7"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Hey everyone! Friendly reminder that school uniforms must be worn on 4 days of every school week"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ea67k"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Starting next year, students of all grades must wear school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ea67k"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Starting next year, students of all grades must wear school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ebks1"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I'm glad that our school offers reasonably priced uniforms for us ☺️"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ebks1"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I'm glad that our school offers reasonably priced uniforms for us ☺️"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e1qt2"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Student council is excited to announce that we will have 4 different options for uniforms students can choose from!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e1qt2"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Student council is excited to announce that we will have 4 different options for uniforms students can choose from!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e35dj"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I wanted to let you know that students will get a warning each time they do not wear their uniform on a required day"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e35dj"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I wanted to let you know that students will get a warning each time they do not wear their uniform on a required day"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e4jxw"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "FYI, you will be sent to detention if you don't wear your uniform 3 times :oo"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e4jxw"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "FYI, you will be sent to detention if you don't wear your uniform 3 times :oo"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e5yid"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "If a student does not wear their uniform 5 times, their parents will be notified and they will receive detention"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/e5yid"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "If a student does not wear their uniform 5 times, their parents will be notified and they will receive detention"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eilm2"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hi student body~ Students who change out of their uniforms in the middle of the day will receive a warning, so please make sure to follow the rules!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eilm2"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Hi student body~ Students who change out of their uniforms in the middle of the day will receive a warning, so please make sure to follow the rules!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ek06j"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I'm so excited!! Eighth graders won't have to wear uniforms during the last week of school 😍😍"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ek06j"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I'm so excited!! Eighth graders won't have to wear uniforms during the last week of school 😍😍"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eleqw"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Thank goodness admin decided that uniforms won't be required in gym classes... 😅"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eleqw"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Thank goodness admin decided that uniforms won't be required in gym classes... 😅"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/emtbd"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "This is kind of a given, but teachers will not have to wear school uniforms under our new school uniform policy."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/emtbd"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "This is kind of a given, but teachers will not have to wear school uniforms under our new school uniform policy."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eczce"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "My mom went to the PTA meeting, and apparently teachers willl have a separate dress code! :o"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eczce"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "My mom went to the PTA meeting, and apparently teachers willl have a separate dress code! :o"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eedwv"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "School President here! Student council and admin worked hard together to reform our school uniform policy for next year :)"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eedwv"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "School President here! Student council and admin worked hard together to reform our school uniform policy for next year :)"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/efsh8"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Is it just me, or are our school uniforms actually a great fashion choice? I'm kind of in love with this design"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/efsh8"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Is it just me, or are our school uniforms actually a great fashion choice? I'm kind of in love with this design"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eh71p"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "We're actually not the only ones wearing school uniforms. My friends from some nearby schools are also required to "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eh71p"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "We're actually not the only ones wearing school uniforms. My friends from some nearby schools are also required to "
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/etu5e"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Friends! Athletes won't be getting any special treatment regarding school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/etu5e"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Friends! Athletes won't be getting any special treatment regarding school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ev8pv"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Students who particpate in extracurriculars will also not be getting any special treatment regarding uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ev8pv"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Students who particpate in extracurriculars will also not be getting any special treatment regarding uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ewna8"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "My step dad is the head of PTA, and PTA was not involved in the decision to require school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ewna8"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "My step dad is the head of PTA, and PTA was not involved in the decision to require school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ey1up"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hm... I think at least some parents were involved in the decision to require school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ey1up"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Hm... I think at least some parents were involved in the decision to require school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eo7vq"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hey there Neural Networks! Our school uniforms with art designed by AI will increase our school pride! Let's get excited 😁🎉"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/eo7vq"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Hey there Neural Networks! Our school uniforms with art designed by AI will increase our school pride! Let's get excited 😁🎉"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/epmg7"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I feel like school uniforms will help my friends and I feel a greater sense of belonging to our middle school"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/epmg7"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I feel like school uniforms will help my friends and I feel a greater sense of belonging to our middle school"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/er10k"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Some of our school uniform options may be relatively uncomfortable but are super cute"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/er10k"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Some of our school uniform options may be relatively uncomfortable but are super cute"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/esfl1"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Some of our school uniform options may be very comfortable but less aesthetically pleasing."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/esfl1"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Some of our school uniform options may be very comfortable but less aesthetically pleasing."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a59y2"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I know some of you don't like the new uniform policy, but I know that they'll really reduce fashion stress for me lol"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a59y2"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I know some of you don't like the new uniform policy, but I know that they'll really reduce fashion stress for me lol"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a6oij"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I'm personally against requiring school uniforms because they will take away some of students' personal liberties"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a6oij"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I'm personally against requiring school uniforms because they will take away some of students' personal liberties"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a832w"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hi! Student body secretary here! Recent surveys have shown that many students approve of school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a832w"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Hi! Student body secretary here! Recent surveys have shown that many students approve of school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a9hnd"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I've talked about the student uniform controversy a lot with my friends. We agree that uniforms are okay as long as they're not strictly enforced."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a9hnd"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I've talked about the student uniform controversy a lot with my friends. We agree that uniforms are okay as long as they're not strictly enforced."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/9znoe"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hello fellow students of AI Middle School. Local government was not involved in the decision to require school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/9znoe"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Hello fellow students of AI Middle School. Local government was not involved in the decision to require school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a128v"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Wearing school uniforms will not affect the health of students"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a128v"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Wearing school uniforms will not affect the health of students"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a2gt8"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Wearing school uniforms will not affect the academic capability of students"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a2gt8"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Wearing school uniforms will not affect the academic capability of students"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a3vdp"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Classes will not change based on whether or not students are required to wear uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/a3vdp"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Classes will not change based on whether or not students are required to wear uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/agihe"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Announcement from admin: school uniforms can now be bought in packs of two at the school store!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/agihe"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Announcement from admin: school uniforms can now be bought in packs of two at the school store!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ahx1v"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Our school uniforms will proudly display our school's mascot, a neural network."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ahx1v"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Our school uniforms will proudly display our school's mascot, a neural network."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ajbm8"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The uniforms will feature our school's colors 💚🖤"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/ajbm8"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The uniforms will feature our school's colors 💚🖤"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/akq6p"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "School uniforms will come in 12 different sizes"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/akq6p"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "School uniforms will come in 12 different sizes"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/aaw7q"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Our school offers thorough financial aid for school uniforms for those who need it :) "
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/aaw7q"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Our school offers thorough financial aid for school uniforms for those who need it :) "
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/acas7"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "I just learned that the school will not require specific shoes as part of the uniform. That means I can still wear my sneakers yay!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/acas7"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "I just learned that the school will not require specific shoes as part of the uniform. That means I can still wear my sneakers yay!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/adpck"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The school will not require specific backpacks as part of the uniform"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/adpck"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The school will not require specific backpacks as part of the uniform"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/af3x1"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Hey Neural Networks! Your teachers will be unhappy if students do not wear their school uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/af3x1"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Hey Neural Networks! Your teachers will be unhappy if students do not wear their school uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/arr0q"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Students are expected to follow the rules or face consequences if they don't wear their uniforms"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/arr0q"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Students are expected to follow the rules or face consequences if they don't wear their uniforms"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/at5l7"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "The uniforms will not be time consuming to put on. They are just clothes."
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/at5l7"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "The uniforms will not be time consuming to put on. They are just clothes."
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/auk5k"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Art Club is sad to announce that students will unfortunately not get to design the uniforms. But we do get to vote!"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/auk5k"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "Art Club is sad to announce that students will unfortunately not get to design the uniforms. But we do get to vote!"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/avyq1"
+                },
+                "updated": {
+                    "$t": "2020-06-29T16:12:05.662Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/spreadsheets/2006",
+                        "term": "http://schemas.google.com/spreadsheets/2006#list"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "We're happy to announce that required uniforms will be implemented starting next year :D"
+                },
+                "content": {
+                    "type": "text",
+                    "$t": "misinfoornot: Neutral"
+                },
+                "link": [
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://spreadsheets.google.com/feeds/list/1D9rIogriFQ7dlucBW4HP8OhRcmPMMNxQOcrzl8E9e_o/on2r85y/public/values/avyq1"
+                    }
+                ],
+                "gsx$headline": {
+                    "$t": "We're happy to announce that required uniforms will be implemented starting next year :D"
+                },
+                "gsx$misinfoornot": {
+                    "$t": "Neutral"
+                },
+                "gsx$misinfotactic": {
+                    "$t": ""
+                }
+            }
+        ]
+    }
+}

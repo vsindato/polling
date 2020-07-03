@@ -1,0 +1,500 @@
+[
+  {
+    "ID": 0,
+    "headline": "I heard that students will have to wear school uniforms for all activities - even PE! :(",
+    "isMisinfo": "Misinfo",
+    "tactic": "Invoking emotions"
+  },
+  {
+    "ID": 1,
+    "headline": "You might receive detention for not wearing a school uniform. Be careful out there.",
+    "isMisinfo": "Misinfo",
+    "tactic": "Invoking emotions"
+  },
+  {
+    "ID": 2,
+    "headline": "Word has it that we must pay for school uniforms made out of real animal fur 😤",
+    "isMisinfo": "Misinfo",
+    "tactic": "Invoking emotions"
+  },
+  {
+    "ID": 3,
+    "headline": "Friends! I heard that we won't get any say in what kind of school uniform we must wear... 😭",
+    "isMisinfo": "Misinfo",
+    "tactic": "Invoking emotions"
+  },
+  {
+    "ID": 4,
+    "headline": "I just learned that students will be required to pay a fee for not wearing the school uniform",
+    "isMisinfo": "Misinfo",
+    "tactic": "Invoking emotions"
+  },
+  {
+    "ID": 5,
+    "headline": "This just in from student council, but all students from K-12 will have to wear uniforms everyday. So long, freedom.",
+    "isMisinfo": "Misinfo",
+    "tactic": "Invoking emotions"
+  },
+  {
+    "ID": 6,
+    "headline": "I feel like only non-athletes will be required to follow the school uniform policy. :/",
+    "isMisinfo": "Misinfo",
+    "tactic": "Polarisation"
+  },
+  {
+    "ID": 7,
+    "headline": "Did you hear how some students will receive more comfortable uniforms than others? :oo",
+    "isMisinfo": "Misinfo",
+    "tactic": "Polarisation"
+  },
+  {
+    "ID": 8,
+    "headline": "Our uniforms will vary in price depending on size... UGH! 😤",
+    "isMisinfo": "Misinfo",
+    "tactic": "Polarisation"
+  },
+  {
+    "ID": 9,
+    "headline": "Good news for eighth graders! I think only sixth and seventh graders will be required to wear uniforms xD",
+    "isMisinfo": "Misinfo",
+    "tactic": "Polarisation"
+  },
+  {
+    "ID": 10,
+    "headline": "Haha good thing I'm not in any extracurriculars! Students in extracurriculars have to wear uniforms as a form of school fee",
+    "isMisinfo": "Misinfo",
+    "tactic": "Polarisation"
+  },
+  {
+    "ID": 11,
+    "headline": "Fellow students, only the kids who attend sports games will supposedly have to wear school uniforms!!",
+    "isMisinfo": "Misinfo",
+    "tactic": "Polarisation"
+  },
+  {
+    "ID": 12,
+    "headline": "So apparently anyone who has missed a class before must wear their school uniform from now on... big sad :( ",
+    "isMisinfo": "Misinfo",
+    "tactic": "Polarisation"
+  },
+  {
+    "ID": 13,
+    "headline": "My older brother says that our school uniforms were made by one of the principal's friends 🧐",
+    "isMisinfo": "Misinfo",
+    "tactic": "Spreading conspiracy theories"
+  },
+  {
+    "ID": 14,
+    "headline": "The principal will come to your house if you don't wear a school uniform",
+    "isMisinfo": "Misinfo",
+    "tactic": "Spreading conspiracy theories"
+  },
+  {
+    "ID": 15,
+    "headline": "Make sure to wear your school uniform at all times, or else you might be expelled!",
+    "isMisinfo": "Misinfo",
+    "tactic": "Spreading conspiracy theories"
+  },
+  {
+    "ID": 16,
+    "headline": "Our new school uniforms will apparently be really expensive... I want to buy boba, not boring uniforms...",
+    "isMisinfo": "Misinfo",
+    "tactic": "Spreading conspiracy theories"
+  },
+  {
+    "ID": 17,
+    "headline": "I swear that our schools' students are performing worse because of these new uniforms",
+    "isMisinfo": "Misinfo",
+    "tactic": "Spreading conspiracy theories"
+  },
+  {
+    "ID": 18,
+    "headline": "Y'all, students are gonna be required to wear school uniforms - even at home! 😱",
+    "isMisinfo": "Misinfo",
+    "tactic": "Spreading conspiracy theories"
+  },
+  {
+    "ID": 19,
+    "headline": "My research shows that students who wear uniforms get better grades.",
+    "isMisinfo": "Misinfo",
+    "tactic": "Spreading conspiracy theories"
+  },
+  {
+    "ID": 20,
+    "headline": "Who's to blame for COVID-19? Students who don't wear uniforms!",
+    "isMisinfo": "Misinfo",
+    "tactic": "Trolling people online"
+  },
+  {
+    "ID": 21,
+    "headline": "Our school uniform was found in Paris Fashion Week this year. We go to such a fashion-forward school 💕",
+    "isMisinfo": "Misinfo",
+    "tactic": "Trolling people online"
+  },
+  {
+    "ID": 22,
+    "headline": "Your friends will hate you if you don't wear a school uniform",
+    "isMisinfo": "Misinfo",
+    "tactic": "Trolling people online"
+  },
+  {
+    "ID": 23,
+    "headline": "I saw some samples for our new uniform, and they're an ugly neon purple color.",
+    "isMisinfo": "Misinfo",
+    "tactic": "Trolling people online"
+  },
+  {
+    "ID": 24,
+    "headline": "Some good news to brighten your feed: each school uniform will only cost 10 cents :'))",
+    "isMisinfo": "Misinfo",
+    "tactic": "Trolling people online"
+  },
+  {
+    "ID": 25,
+    "headline": "Some somber news: admin will deactivate your social if caught without a uniform on... *sigh*",
+    "isMisinfo": "Misinfo",
+    "tactic": "Trolling people online"
+  },
+  {
+    "ID": 26,
+    "headline": "Attention all athletes! Our school uniforms have been correlated with weaker endurance.",
+    "isMisinfo": "Misinfo",
+    "tactic": "Trolling people online"
+  },
+  {
+    "ID": 27,
+    "headline": "Principle Lapicnirp said during the student council meeting that students not wearing uniforms lose electronics privileges.",
+    "isMisinfo": "Misinfo",
+    "tactic": "Impersonating fake accounts"
+  },
+  {
+    "ID": 28,
+    "headline": "Art Club Prsident Tra says that art club has been assigned to design the entire uniform.",
+    "isMisinfo": "Misinfo",
+    "tactic": "Impersonating fake accounts"
+  },
+  {
+    "ID": 29,
+    "headline": "Vice Principle Gan told me that he's trying to allow students to design their own uniforms",
+    "isMisinfo": "Misinfo",
+    "tactic": "Impersonating fake accounts"
+  },
+  {
+    "ID": 30,
+    "headline": "All the math teachers have stated that they are against school uniforms 🙅‍♀️",
+    "isMisinfo": "Misinfo",
+    "tactic": "Impersonating fake accounts"
+  },
+  {
+    "ID": 31,
+    "headline": "The gym teachers are in full support of school uniforms and of expelling the students who do not wear them",
+    "isMisinfo": "Misinfo",
+    "tactic": "Impersonating fake accounts"
+  },
+  {
+    "ID": 32,
+    "headline": "97% of the student population has already agreed to wearing school uniforms",
+    "isMisinfo": "Misinfo",
+    "tactic": "Impersonating fake accounts"
+  },
+  {
+    "ID": 33,
+    "headline": "The captains of the sports teams have joined together to rep the school uniforms all around campus",
+    "isMisinfo": "Misinfo",
+    "tactic": "Impersonating fake accounts"
+  },
+  {
+    "ID": 34,
+    "headline": "The school says they are only implementing uniforms upon parents' requests",
+    "isMisinfo": "Misinfo",
+    "tactic": "Deflecting blame"
+  },
+  {
+    "ID": 35,
+    "headline": "Our school blames the clothing manufacturer for making uncomfortable uniforms",
+    "isMisinfo": "Misinfo",
+    "tactic": "Deflecting blame"
+  },
+  {
+    "ID": 36,
+    "headline": "School admin antagonized past students for their inappropriate clothing to justify these new uniforms! -_-",
+    "isMisinfo": "Misinfo",
+    "tactic": "Deflecting blame"
+  },
+  {
+    "ID": 37,
+    "headline": "Many of our parents are saying that they had school uniforms back in their day which is why they think they are a must",
+    "isMisinfo": "Misinfo",
+    "tactic": "Deflecting blame"
+  },
+  {
+    "ID": 38,
+    "headline": "As your student council president, I wanted to say these uniforms weren't under my control and it was entirely up to adults",
+    "isMisinfo": "Misinfo",
+    "tactic": "Deflecting blame"
+  },
+  {
+    "ID": 39,
+    "headline": "The school claims that they are only trying to follow the model of other nearby schools that require uniforms",
+    "isMisinfo": "Misinfo",
+    "tactic": "Deflecting blame"
+  },
+  {
+    "ID": 40,
+    "headline": "Hey everyone! Friendly reminder that school uniforms must be worn on 4 days of every school week",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 41,
+    "headline": "Starting next year, students of all grades must wear school uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 42,
+    "headline": "I'm glad that our school offers reasonably priced uniforms for us ☺️",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 43,
+    "headline": "Student council is excited to announce that we will have 4 different options for uniforms students can choose from!",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 44,
+    "headline": "I wanted to let you know that students will get a warning each time they do not wear their uniform on a required day",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 45,
+    "headline": "FYI, you will be sent to detention if you don't wear your uniform 3 times :oo",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 46,
+    "headline": "If a student does not wear their uniform 5 times, their parents will be notified and they will receive detention",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 47,
+    "headline": "Hi student body~ Students who change out of their uniforms in the middle of the day will receive a warning, so please make sure to follow the rules!",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 48,
+    "headline": "I'm so excited!! Eighth graders won't have to wear uniforms during the last week of school 😍😍",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 49,
+    "headline": "Thank goodness admin decided that uniforms won't be required in gym classes... 😅",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 50,
+    "headline": "This is kind of a given, but teachers will not have to wear school uniforms under our new school uniform policy.",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 51,
+    "headline": "My mom went to the PTA meeting, and apparently teachers willl have a separate dress code! :o",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 52,
+    "headline": "School President here! Student council and admin worked hard together to reform our school uniform policy for next year :)",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 53,
+    "headline": "Is it just me, or are our school uniforms actually a great fashion choice? I'm kind of in love with this design",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 54,
+    "headline": "We're actually not the only ones wearing school uniforms. My friends from some nearby schools are also required to ",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 55,
+    "headline": "Friends! Athletes won't be getting any special treatment regarding school uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 56,
+    "headline": "Students who particpate in extracurriculars will also not be getting any special treatment regarding uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 57,
+    "headline": "My step dad is the head of PTA, and PTA was not involved in the decision to require school uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 58,
+    "headline": "Hm... I think at least some parents were involved in the decision to require school uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 59,
+    "headline": "Hey there Neural Networks! Our school uniforms with art designed by AI will increase our school pride! Let's get excited 😁🎉",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 60,
+    "headline": "I feel like school uniforms will help my friends and I feel a greater sense of belonging to our middle school",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 61,
+    "headline": "Some of our school uniform options may be relatively uncomfortable but are super cute",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 62,
+    "headline": "Some of our school uniform options may be very comfortable but less aesthetically pleasing.",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 63,
+    "headline": "I know some of you don't like the new uniform policy, but I know that they'll really reduce fashion stress for me lol",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 64,
+    "headline": "I'm personally against requiring school uniforms because they will take away some of students' personal liberties",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 65,
+    "headline": "Hi! Student body secretary here! Recent surveys have shown that many students approve of school uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 66,
+    "headline": "I've talked about the student uniform controversy a lot with my friends. We agree that uniforms are okay as long as they're not strictly enforced.",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 67,
+    "headline": "Hello fellow students of AI Middle School. Local government was not involved in the decision to require school uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 68,
+    "headline": "Wearing school uniforms will not affect the health of students",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 69,
+    "headline": "Wearing school uniforms will not affect the academic capability of students",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 70,
+    "headline": "Classes will not change based on whether or not students are required to wear uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 71,
+    "headline": "Announcement from admin: school uniforms can now be bought in packs of two at the school store!",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 72,
+    "headline": "Our school uniforms will proudly display our school's mascot, a neural network.",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 73,
+    "headline": "The uniforms will feature our school's colors 💚🖤",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 74,
+    "headline": "School uniforms will come in 12 different sizes",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 75,
+    "headline": "Our school offers thorough financial aid for school uniforms for those who need it :) ",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 76,
+    "headline": "I just learned that the school will not require specific shoes as part of the uniform. That means I can still wear my sneakers yay!",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 77,
+    "headline": "The school will not require specific backpacks as part of the uniform",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 78,
+    "headline": "Hey Neural Networks! Your teachers will be unhappy if students do not wear their school uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 79,
+    "headline": "Students are expected to follow the rules or face consequences if they don't wear their uniforms",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 80,
+    "headline": "The uniforms will not be time consuming to put on. They are just clothes.",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 81,
+    "headline": "Art Club is sad to announce that students will unfortunately not get to design the uniforms. But we do get to vote!",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  },
+  {
+    "ID": 82,
+    "headline": "We're happy to announce that required uniforms will be implemented starting next year :D",
+    "isMisinfo": "Neutral",
+    "tactic": ""
+  }
+]

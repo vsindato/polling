@@ -1,0 +1,40 @@
+.card {
+  position: relative;
+  border-radius: 15px;
+  padding: 3%;
+  margin-top: 5%;
+  direction: ltr;
+  font-size: small;
+  text-align: left;
+}
+
+.caption {
+  text-align: right;
+  color: #800000;
+  font-size: x-small;
+  margin-top: 1px;
+  font-style: italic;
+}
+
+.arrowEnd {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 100%;
+  height: 0;
+}
+
+.neutral {
+  border: 3px solid darkgreen;
+  background-color: mediumaquamarine;
+}
+
+.misinfo {
+  border: 3px solid darkred;
+  background-color: lightcoral;
+}
+
+.null {
+  border: 3px solid black;
+  background-color: lightgray;
+}

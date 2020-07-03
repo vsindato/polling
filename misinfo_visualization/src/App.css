@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  padding: 2%;
+}
+
+.Round {
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.Column {
+  display: grid;
+  direction: rtl;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  background-color: lightblue;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
